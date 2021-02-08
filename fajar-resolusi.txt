@@ -2,3 +2,4 @@ Fajar Ramadhan Resolusi
 - Konsisten membuat project setiap hari
 - Paham HTML,CSS,Js,PHP
 - Membuat website pribadi dengan efek parallax
+- Membuat project dengan java
