@@ -1,0 +1,5 @@
+Rencana Project fjr
+
+- Membuat project Java GUI
+- Membuat project PHP Native terintegrasi SQL
+- Membuat PHP MVC
